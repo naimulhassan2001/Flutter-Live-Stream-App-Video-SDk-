@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'join_screen.dart';
+import 'live_stream/join_screen.dart';
 
 void main() {
   runApp(const MyApp());

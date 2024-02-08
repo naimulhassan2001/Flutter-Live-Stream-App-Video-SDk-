@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:videosdk/videosdk.dart';
-import './livestream_player.dart';
+import 'livestream_player.dart';
 
 class ILSViewerView extends StatefulWidget {
   final Room room;

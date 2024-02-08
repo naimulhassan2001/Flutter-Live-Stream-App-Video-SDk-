@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:videosdk/videosdk.dart';
-import './ils_speaker_view.dart';
-import './ils_viewer_view.dart';
+import 'ils_speaker_view.dart';
+import 'ils_viewer_view.dart';
 
 class ILSScreen extends StatefulWidget {
   final String meetingId;

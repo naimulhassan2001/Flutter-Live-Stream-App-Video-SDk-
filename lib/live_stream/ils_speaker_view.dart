@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:video_sdk/participant_tile.dart';
+import 'package:video_sdk/live_stream/participant_tile.dart';
 import 'package:videosdk/videosdk.dart';
 
 import 'meeting_controls.dart';
